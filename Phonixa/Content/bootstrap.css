@@ -112,6 +112,11 @@ samp {
   font-family: monospace, monospace;
   font-size: 1em;
 }
+.pull-right{
+    float:right !important;
+}
+
+
 button,
 input,
 optgroup,
